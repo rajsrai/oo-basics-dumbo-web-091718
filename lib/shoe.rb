@@ -41,4 +41,5 @@ class Shoe
       @condition 
     end
     
-    
+    condition = Shoe.new("Cobbled")
+  end
