@@ -41,5 +41,6 @@ class Shoe
       @condition 
     end
     
-    condition = Shoe.new("Cobbled")
+    condition = Shoe.new("new")
+    book.condition
   end
