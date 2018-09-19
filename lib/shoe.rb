@@ -42,5 +42,5 @@ class Shoe
     end
     
     condition = Shoe.new("new")
-    book.condition
+    shoe.condition
   end
